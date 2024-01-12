@@ -51,3 +51,7 @@ const description: Description = {
 
 export default description;
 ```
+
+## Preview
+
+![cv-demo](https://github.com/laxip/react-my-cv/assets/20876055/dd55e7d2-40c9-4bae-824e-87a7bab230ab)
